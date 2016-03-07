@@ -1,0 +1,100 @@
+body{
+        background: #D3D3D3;
+        }
+.sheet{
+        background: white;
+        margin: 0px auto;
+        display: block;
+        width: 1055px;
+        height: auto;
+        padding-top: 50px;
+        }
+.logo1{
+        margin-left: 45px;
+        }
+.txt1{
+        margin: 12px 10px;
+        color: gray;
+        font-family: arial;
+        font-size: 17px;
+        }
+.left{
+        margin-left: 46px;
+        margin-top: 41px;
+        float: left;
+        width: 240px;
+        height: 235px;
+        }
+.leftmenu{
+        margin-left: 0px;
+        margin-top: -1px;
+        width: 238px;
+        height: 38px;
+        background: white;
+        border: 1px solid gray;
+        }
+a.rollover11{
+        margin: 12px 10px;
+        color: gray;
+        display: block;
+        font-family: arial;
+        font-size: 17px;
+        text-decoration: none;
+        }
+a.rollover11:hover{
+        margin: 12px 16px;
+        color: black;
+        }
+.bike{
+        margin: 120px 45px 0px 330px; 
+        border: 1px solid gray;
+        }
+.info{
+        margin: 0px 45px 20px 330px;
+        padding: 30px;
+        display: block;
+        color: gray;
+        font-family: arial;
+        font-size: 17px;
+        }
+a{
+        text-decoration: none;       
+        }
+a.foot{
+        margin: 12px 10px;
+        color: #6E6E6E;
+        font-family: arial;
+        font-size: 15px;
+        }
+.bot1{
+        margin-top: 0px;
+        margin-left: 40px;
+        float: left;
+        background: #F2F2F2;
+        width: 138px; /* Ширина блока */
+        height: 40px;
+        }
+.bot2{
+        margin: 0px;
+        float: left;
+        background: #F2F2F2;
+        width: 138px; /* Ширина блока */
+        height: 40px;
+        }
+.bot3{
+        margin: 0px;
+        float: left;
+        background: #F2F2F2;
+        width: 409px; /* Ширина блока */
+        height: 40px;
+        }
+.txt2{
+        margin-top: 12px;
+        margin-left: 205px;
+        color: #6E6E6E;
+        font-family: arial;
+        font-size: 15px;
+}
+.footer{
+        height: 80px;
+        }

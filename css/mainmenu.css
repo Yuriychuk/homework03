@@ -1,0 +1,60 @@
+.mainmenu1{
+        margin-left: 45px;
+        margin-top: 40px;
+        float: left;
+        background: gray;
+        width: 138px; /* Ширина блока */
+        height: 40px;
+        }
+.mainmenu2{
+        margin-left: 0px;
+        margin-top: 40px;
+        float: left;
+        background: gray;
+        width: 138px; /* Ширина блока */
+        height: 40px;
+        }
+.mainmenu3{
+        margin-left: 0px;
+        margin-top: 40px;
+        float: left;
+        background: gray;
+        width: 409px; /* Ширина блока */
+        height: 40px;
+        }
+a.rollover1{
+        background: url(../image/mainmenu1_1.jpg); /* Путь к файлу с исходным рисунком  */
+        display: block; /*  Рисунок как блочный элемент */
+        width: 138px; /* Ширина рисунка */
+        height: 40px; /*  Высота рисунка */
+        }
+a.rollover1:hover{
+        background: url(../image/mainmenu1_2.jpg); /* Путь к файлу с заменяемым рисунком  */
+        }
+a.rollover2{
+        background: url(../image/mainmenu2_1.jpg); /* Путь к файлу с исходным рисунком  */
+        display: block; /*  Рисунок как блочный элемент */
+        width: 138px; /* Ширина рисунка */
+        height: 40px; /*  Высота рисунка */
+        }
+a.rollover2:hover{
+        background: url(../image/mainmenu2_2.jpg); /* Путь к файлу с заменяемым рисунком  */
+        }
+a.rollover3{
+        background: url(../image/mainmenu3_1.jpg); /* Путь к файлу с исходным рисунком  */
+        display: block; /*  Рисунок как блочный элемент */
+        width: 138px; /* Ширина рисунка */
+        height: 40px; /*  Высота рисунка */
+        }
+a.rollover3:hover{
+        background: url(../image/mainmenu3_2.jpg); /* Путь к файлу с заменяемым рисунком  */
+        }
+a.rollover4{
+        background: url(../image/mainmenu4_1.jpg); /* Путь к файлу с исходным рисунком  */
+        display: block; /*  Рисунок как блочный элемент */
+        width: 138px; /* Ширина рисунка */
+        height: 40px; /*  Высота рисунка */
+        }
+a.rollover4:hover{
+        background: url(../image/mainmenu4_2.jpg); /* Путь к файлу с заменяемым рисунком  */
+        }
