@@ -66,6 +66,9 @@ a.foot{
         font-family: arial;
         font-size: 15px;
         }
+a.foot:hover{
+        text-decoration: underline;
+        }
 .bot1{
         margin-top: 0px;
         margin-left: 40px;
